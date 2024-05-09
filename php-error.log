@@ -1,0 +1,1187 @@
+[08-May-2024 17:00:00 UTC] Inicio de aplicación web
+[08-May-2024 17:00:04 UTC] Inicio de aplicación web
+[08-May-2024 17:13:00 UTC] Inicio de aplicación web
+[08-May-2024 17:13:00 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\laragon\www\Proyecto-INRLP\libs\app.php on line 6
+[08-May-2024 17:13:00 UTC] APP::construct-> no hay controlador especificado
+[08-May-2024 17:13:00 UTC] PHP Warning:  require_once(controllers/login.php): Failed to open stream: No such file or directory in C:\laragon\www\Proyecto-INRLP\libs\app.php on line 13
+[08-May-2024 17:13:00 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'controllers/login.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\Proyecto-INRLP\libs\app.php:13
+Stack trace:
+#0 C:\laragon\www\Proyecto-INRLP\index.php(15): App->__construct()
+#1 {main}
+  thrown in C:\laragon\www\Proyecto-INRLP\libs\app.php on line 13
+[08-May-2024 17:16:35 UTC] Inicio de aplicación web
+[08-May-2024 17:16:35 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\laragon\www\Proyecto-INRLP\libs\app.php on line 6
+[08-May-2024 17:16:35 UTC] APP::construct-> no hay controlador especificado
+[08-May-2024 17:16:35 UTC] Login::construct-> Inicio de login
+[08-May-2024 17:18:13 UTC] Inicio de aplicación web
+[08-May-2024 17:18:13 UTC] PHP Deprecated:  rtrim(): Passing null to parameter #1 ($string) of type string is deprecated in C:\laragon\www\Proyecto-INRLP\libs\app.php on line 6
+[08-May-2024 17:18:13 UTC] APP::construct-> no hay controlador especificado
+[08-May-2024 17:18:13 UTC] Login::construct-> Inicio de login
+[08-May-2024 17:19:25 UTC] Inicio de aplicación web
+[08-May-2024 17:19:25 UTC] APP::construct-> no hay controlador especificado
+[08-May-2024 17:19:25 UTC] Login::construct-> Inicio de login
+[08-May-2024 17:19:38 UTC] Inicio de aplicación web
+[08-May-2024 17:19:38 UTC] APP::construct-> no hay controlador especificado
+[08-May-2024 17:19:38 UTC] Login::construct-> Inicio de login
+[08-May-2024 18:11:29 UTC] Inicio de aplicación web
+[08-May-2024 18:11:29 UTC] APP::construct-> no hay controlador especificado
+[08-May-2024 18:11:29 UTC] Login::construct-> Inicio de login
+[08-May-2024 18:11:29 UTC] PHP Warning:  require(views/login/index.php): Failed to open stream: No such file or directory in C:\laragon\www\Proyecto-INRLP\libs\view.php on line 14
+[08-May-2024 18:11:29 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'views/login/index.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\Proyecto-INRLP\libs\view.php:14
+Stack trace:
+#0 C:\laragon\www\Proyecto-INRLP\controllers\login.php(10): View->render('login/index')
+#1 C:\laragon\www\Proyecto-INRLP\libs\app.php(16): Login->render()
+#2 C:\laragon\www\Proyecto-INRLP\index.php(21): App->__construct()
+#3 {main}
+  thrown in C:\laragon\www\Proyecto-INRLP\libs\view.php on line 14
+[08-May-2024 18:14:11 UTC] Inicio de aplicación web
+[08-May-2024 18:14:11 UTC] APP::construct-> no hay controlador especificado
+[08-May-2024 18:14:11 UTC] Login::construct-> Inicio de login
+[08-May-2024 18:14:59 UTC] Inicio de aplicación web
+[08-May-2024 18:14:59 UTC] APP::construct-> no hay controlador especificado
+[08-May-2024 18:14:59 UTC] Login::construct-> Inicio de login
+[08-May-2024 18:26:10 UTC] Inicio de aplicación web
+[08-May-2024 18:26:10 UTC] APP::construct-> no hay controlador especificado
+[08-May-2024 18:26:10 UTC] Login::construct-> Inicio de login
+[08-May-2024 18:26:14 UTC] Inicio de aplicación web
+[08-May-2024 18:26:14 UTC] PHP Fatal error:  Uncaught Error: Class "Errores" not found in C:\laragon\www\Proyecto-INRLP\libs\app.php:53
+Stack trace:
+#0 C:\laragon\www\Proyecto-INRLP\index.php(21): App->__construct()
+#1 {main}
+  thrown in C:\laragon\www\Proyecto-INRLP\libs\app.php on line 53
+[08-May-2024 18:33:02 UTC] Inicio de aplicación web
+[08-May-2024 18:33:02 UTC] Errores::construct -> Inicio de errores
+[08-May-2024 18:33:03 UTC] Inicio de aplicación web
+[08-May-2024 18:33:03 UTC] Errores::construct -> Inicio de errores
+[08-May-2024 18:34:34 UTC] Inicio de aplicación web
+[08-May-2024 18:34:34 UTC] Errores::construct -> Inicio de errores
+[08-May-2024 18:34:36 UTC] Inicio de aplicación web
+[08-May-2024 18:34:36 UTC] Errores::construct -> Inicio de errores
+[08-May-2024 18:35:28 UTC] Inicio de aplicación web
+[08-May-2024 18:35:28 UTC] Errores::construct -> Inicio de errores
+[08-May-2024 18:35:29 UTC] Inicio de aplicación web
+[08-May-2024 18:35:29 UTC] Errores::construct -> Inicio de errores
+[08-May-2024 18:37:48 UTC] Inicio de aplicación web
+[08-May-2024 18:37:48 UTC] Errores::construct -> Inicio de errores
+[08-May-2024 18:39:23 UTC] Inicio de aplicación web
+[08-May-2024 18:39:23 UTC] Errores::construct -> Inicio de errores
+[08-May-2024 18:43:41 UTC] Inicio de aplicación web
+[08-May-2024 18:43:41 UTC] APP::construct-> no hay controlador especificado
+[08-May-2024 18:43:41 UTC] Login::construct-> Inicio de login
+[08-May-2024 18:43:46 UTC] Inicio de aplicación web
+[08-May-2024 18:43:46 UTC] Errores::construct -> Inicio de errores
+[08-May-2024 18:46:27 UTC] Inicio de aplicación web
+[08-May-2024 18:46:27 UTC] Errores::construct -> Inicio de errores
+[08-May-2024 18:47:48 UTC] Inicio de aplicación web
+[08-May-2024 18:47:48 UTC] Errores::construct -> Inicio de errores
+[08-May-2024 18:48:23 UTC] Inicio de aplicación web
+[08-May-2024 18:48:23 UTC] Errores::construct -> Inicio de errores
+[08-May-2024 18:48:38 UTC] Inicio de aplicación web
+[08-May-2024 18:48:38 UTC] Errores::construct -> Inicio de errores
+[08-May-2024 18:51:03 UTC] Inicio de aplicación web
+[08-May-2024 18:51:03 UTC] APP::construct-> no hay controlador especificado
+[08-May-2024 18:51:03 UTC] Login::construct-> Inicio de login
+[08-May-2024 18:51:07 UTC] Inicio de aplicación web
+[08-May-2024 18:51:07 UTC] Errores::construct -> Inicio de errores
+[08-May-2024 18:51:40 UTC] Inicio de aplicación web
+[08-May-2024 18:51:40 UTC] Errores::construct -> Inicio de errores
+[08-May-2024 18:51:57 UTC] Inicio de aplicación web
+[08-May-2024 18:51:57 UTC] Errores::construct -> Inicio de errores
+[08-May-2024 19:50:07 UTC] Inicio de aplicación web
+[08-May-2024 19:50:07 UTC] APP::construct-> no hay controlador especificado
+[08-May-2024 19:50:07 UTC] Login::construct-> Inicio de login
+[08-May-2024 19:51:21 UTC] Inicio de aplicación web
+[08-May-2024 19:51:21 UTC] APP::construct-> no hay controlador especificado
+[08-May-2024 19:51:21 UTC] Login::construct-> Inicio de login
+[08-May-2024 21:14:22 UTC] Inicio de aplicación web
+[08-May-2024 21:14:22 UTC] APP::construct-> no hay controlador especificado
+[08-May-2024 21:14:22 UTC] SessionController::validateSession()
+[08-May-2024 21:14:22 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/?error=e89d507f8a4352b078784cf9709f3586, url => ?error=e89d507f8a4352b078784cf9709f3586
+[08-May-2024 21:14:22 UTC] sessionController::isPublic(): currentURL => ?error=e89d507f8a4352b078784cf9709f3586
+[08-May-2024 21:14:22 UTC] SessionController::validateSession() redirect al login
+[08-May-2024 21:14:22 UTC] Login::construct-> Inicio de login
+[08-May-2024 21:14:22 UTC] Inicio de aplicación web
+[08-May-2024 21:14:22 UTC] APP::construct-> no hay controlador especificado
+[08-May-2024 21:14:22 UTC] SessionController::validateSession()
+[08-May-2024 21:14:22 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/, url => 
+[08-May-2024 21:14:22 UTC] sessionController::isPublic(): currentURL => 
+[08-May-2024 21:14:22 UTC] SessionController::validateSession() redirect al login
+[08-May-2024 21:14:22 UTC] Login::construct-> Inicio de login
+[08-May-2024 21:14:22 UTC] Inicio de aplicación web
+[08-May-2024 21:14:22 UTC] APP::construct-> no hay controlador especificado
+[08-May-2024 21:14:22 UTC] SessionController::validateSession()
+[08-May-2024 21:14:22 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/, url => 
+[08-May-2024 21:14:22 UTC] sessionController::isPublic(): currentURL => 
+[08-May-2024 21:14:22 UTC] SessionController::validateSession() redirect al login
+[08-May-2024 21:14:22 UTC] Login::construct-> Inicio de login
+[08-May-2024 21:14:22 UTC] Inicio de aplicación web
+[08-May-2024 21:14:22 UTC] APP::construct-> no hay controlador especificado
+[08-May-2024 21:14:22 UTC] SessionController::validateSession()
+[08-May-2024 21:14:22 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/, url => 
+[08-May-2024 21:14:22 UTC] sessionController::isPublic(): currentURL => 
+[08-May-2024 21:14:22 UTC] SessionController::validateSession() redirect al login
+[08-May-2024 21:14:22 UTC] Login::construct-> Inicio de login
+[08-May-2024 21:14:22 UTC] Inicio de aplicación web
+[08-May-2024 21:14:22 UTC] APP::construct-> no hay controlador especificado
+[08-May-2024 21:14:22 UTC] SessionController::validateSession()
+[08-May-2024 21:14:22 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/, url => 
+[08-May-2024 21:14:22 UTC] sessionController::isPublic(): currentURL => 
+[08-May-2024 21:14:22 UTC] SessionController::validateSession() redirect al login
+[08-May-2024 21:14:22 UTC] Login::construct-> Inicio de login
+[08-May-2024 21:14:22 UTC] Inicio de aplicación web
+[08-May-2024 21:14:22 UTC] APP::construct-> no hay controlador especificado
+[08-May-2024 21:14:22 UTC] SessionController::validateSession()
+[08-May-2024 21:14:22 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/, url => 
+[08-May-2024 21:14:22 UTC] sessionController::isPublic(): currentURL => 
+[08-May-2024 21:14:22 UTC] SessionController::validateSession() redirect al login
+[08-May-2024 21:14:22 UTC] Login::construct-> Inicio de login
+[08-May-2024 21:14:22 UTC] Inicio de aplicación web
+[08-May-2024 21:14:22 UTC] APP::construct-> no hay controlador especificado
+[08-May-2024 21:14:22 UTC] SessionController::validateSession()
+[08-May-2024 21:14:22 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/, url => 
+[08-May-2024 21:14:22 UTC] sessionController::isPublic(): currentURL => 
+[08-May-2024 21:14:22 UTC] SessionController::validateSession() redirect al login
+[08-May-2024 21:14:22 UTC] Login::construct-> Inicio de login
+[08-May-2024 21:14:22 UTC] Inicio de aplicación web
+[08-May-2024 21:14:22 UTC] APP::construct-> no hay controlador especificado
+[08-May-2024 21:14:22 UTC] SessionController::validateSession()
+[08-May-2024 21:14:22 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/, url => 
+[08-May-2024 21:14:22 UTC] sessionController::isPublic(): currentURL => 
+[08-May-2024 21:14:22 UTC] SessionController::validateSession() redirect al login
+[08-May-2024 21:14:22 UTC] Login::construct-> Inicio de login
+[08-May-2024 21:14:22 UTC] Inicio de aplicación web
+[08-May-2024 21:14:22 UTC] APP::construct-> no hay controlador especificado
+[08-May-2024 21:14:22 UTC] SessionController::validateSession()
+[08-May-2024 21:14:22 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/, url => 
+[08-May-2024 21:14:22 UTC] sessionController::isPublic(): currentURL => 
+[08-May-2024 21:14:22 UTC] SessionController::validateSession() redirect al login
+[08-May-2024 21:14:22 UTC] Login::construct-> Inicio de login
+[08-May-2024 21:14:22 UTC] Inicio de aplicación web
+[08-May-2024 21:14:22 UTC] APP::construct-> no hay controlador especificado
+[08-May-2024 21:14:22 UTC] SessionController::validateSession()
+[08-May-2024 21:14:22 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/, url => 
+[08-May-2024 21:14:22 UTC] sessionController::isPublic(): currentURL => 
+[08-May-2024 21:14:22 UTC] SessionController::validateSession() redirect al login
+[08-May-2024 21:14:22 UTC] Login::construct-> Inicio de login
+[08-May-2024 21:14:23 UTC] Inicio de aplicación web
+[08-May-2024 21:14:23 UTC] APP::construct-> no hay controlador especificado
+[08-May-2024 21:14:23 UTC] SessionController::validateSession()
+[08-May-2024 21:14:23 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/, url => 
+[08-May-2024 21:14:23 UTC] sessionController::isPublic(): currentURL => 
+[08-May-2024 21:14:23 UTC] SessionController::validateSession() redirect al login
+[08-May-2024 21:14:23 UTC] Login::construct-> Inicio de login
+[08-May-2024 21:14:23 UTC] Inicio de aplicación web
+[08-May-2024 21:14:23 UTC] APP::construct-> no hay controlador especificado
+[08-May-2024 21:14:23 UTC] SessionController::validateSession()
+[08-May-2024 21:14:23 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/, url => 
+[08-May-2024 21:14:23 UTC] sessionController::isPublic(): currentURL => 
+[08-May-2024 21:14:23 UTC] SessionController::validateSession() redirect al login
+[08-May-2024 21:14:23 UTC] Login::construct-> Inicio de login
+[08-May-2024 21:14:23 UTC] Inicio de aplicación web
+[08-May-2024 21:14:23 UTC] APP::construct-> no hay controlador especificado
+[08-May-2024 21:14:23 UTC] SessionController::validateSession()
+[08-May-2024 21:14:23 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/, url => 
+[08-May-2024 21:14:23 UTC] sessionController::isPublic(): currentURL => 
+[08-May-2024 21:14:23 UTC] SessionController::validateSession() redirect al login
+[08-May-2024 21:14:23 UTC] Login::construct-> Inicio de login
+[08-May-2024 21:14:23 UTC] Inicio de aplicación web
+[08-May-2024 21:14:23 UTC] APP::construct-> no hay controlador especificado
+[08-May-2024 21:14:23 UTC] SessionController::validateSession()
+[08-May-2024 21:14:23 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/, url => 
+[08-May-2024 21:14:23 UTC] sessionController::isPublic(): currentURL => 
+[08-May-2024 21:14:23 UTC] SessionController::validateSession() redirect al login
+[08-May-2024 21:14:23 UTC] Login::construct-> Inicio de login
+[08-May-2024 21:14:23 UTC] Inicio de aplicación web
+[08-May-2024 21:14:23 UTC] APP::construct-> no hay controlador especificado
+[08-May-2024 21:14:23 UTC] SessionController::validateSession()
+[08-May-2024 21:14:23 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/, url => 
+[08-May-2024 21:14:23 UTC] sessionController::isPublic(): currentURL => 
+[08-May-2024 21:14:23 UTC] SessionController::validateSession() redirect al login
+[08-May-2024 21:14:23 UTC] Login::construct-> Inicio de login
+[08-May-2024 21:14:23 UTC] Inicio de aplicación web
+[08-May-2024 21:14:23 UTC] APP::construct-> no hay controlador especificado
+[08-May-2024 21:14:23 UTC] SessionController::validateSession()
+[08-May-2024 21:14:23 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/, url => 
+[08-May-2024 21:14:23 UTC] sessionController::isPublic(): currentURL => 
+[08-May-2024 21:14:23 UTC] SessionController::validateSession() redirect al login
+[08-May-2024 21:14:23 UTC] Login::construct-> Inicio de login
+[08-May-2024 21:14:23 UTC] Inicio de aplicación web
+[08-May-2024 21:14:23 UTC] APP::construct-> no hay controlador especificado
+[08-May-2024 21:14:23 UTC] SessionController::validateSession()
+[08-May-2024 21:14:23 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/, url => 
+[08-May-2024 21:14:23 UTC] sessionController::isPublic(): currentURL => 
+[08-May-2024 21:14:23 UTC] SessionController::validateSession() redirect al login
+[08-May-2024 21:14:23 UTC] Login::construct-> Inicio de login
+[08-May-2024 21:14:23 UTC] Inicio de aplicación web
+[08-May-2024 21:14:23 UTC] APP::construct-> no hay controlador especificado
+[08-May-2024 21:14:23 UTC] SessionController::validateSession()
+[08-May-2024 21:14:23 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/, url => 
+[08-May-2024 21:14:23 UTC] sessionController::isPublic(): currentURL => 
+[08-May-2024 21:14:23 UTC] SessionController::validateSession() redirect al login
+[08-May-2024 21:14:23 UTC] Login::construct-> Inicio de login
+[08-May-2024 21:14:23 UTC] Inicio de aplicación web
+[08-May-2024 21:14:23 UTC] APP::construct-> no hay controlador especificado
+[08-May-2024 21:14:23 UTC] SessionController::validateSession()
+[08-May-2024 21:14:23 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/, url => 
+[08-May-2024 21:14:23 UTC] sessionController::isPublic(): currentURL => 
+[08-May-2024 21:14:23 UTC] SessionController::validateSession() redirect al login
+[08-May-2024 21:14:23 UTC] Login::construct-> Inicio de login
+[08-May-2024 21:14:23 UTC] Inicio de aplicación web
+[08-May-2024 21:14:23 UTC] APP::construct-> no hay controlador especificado
+[08-May-2024 21:14:23 UTC] SessionController::validateSession()
+[08-May-2024 21:14:23 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/, url => 
+[08-May-2024 21:14:23 UTC] sessionController::isPublic(): currentURL => 
+[08-May-2024 21:14:23 UTC] SessionController::validateSession() redirect al login
+[08-May-2024 21:14:23 UTC] Login::construct-> Inicio de login
+[08-May-2024 21:14:38 UTC] Inicio de aplicación web
+[08-May-2024 21:14:38 UTC] APP::construct-> no hay controlador especificado
+[08-May-2024 21:14:38 UTC] SessionController::validateSession()
+[08-May-2024 21:14:38 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/, url => 
+[08-May-2024 21:14:38 UTC] sessionController::isPublic(): currentURL => 
+[08-May-2024 21:14:38 UTC] SessionController::validateSession() public page
+[08-May-2024 21:14:38 UTC] Login::construct-> Inicio de login
+[08-May-2024 21:18:15 UTC] Inicio de aplicación web
+[08-May-2024 21:18:15 UTC] APP::construct-> no hay controlador especificado
+[08-May-2024 21:18:15 UTC] SessionController::validateSession()
+[08-May-2024 21:18:15 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/, url => 
+[08-May-2024 21:18:15 UTC] sessionController::isPublic(): currentURL => 
+[08-May-2024 21:18:15 UTC] SessionController::validateSession() public page
+[08-May-2024 21:18:15 UTC] Login::construct-> Inicio de login
+[08-May-2024 21:18:56 UTC] Inicio de aplicación web
+[08-May-2024 21:18:56 UTC] PHP Fatal error:  Uncaught Error: Class "registro" not found in C:\laragon\www\Proyecto-INRLP\libs\app.php:28
+Stack trace:
+#0 C:\laragon\www\Proyecto-INRLP\index.php(23): App->__construct()
+#1 {main}
+  thrown in C:\laragon\www\Proyecto-INRLP\libs\app.php on line 28
+[08-May-2024 21:19:11 UTC] Inicio de aplicación web
+[08-May-2024 21:19:11 UTC] Errores::construct -> Inicio de errores
+[08-May-2024 21:19:15 UTC] Inicio de aplicación web
+[08-May-2024 21:19:15 UTC] Errores::construct -> Inicio de errores
+[08-May-2024 21:19:44 UTC] Inicio de aplicación web
+[08-May-2024 21:19:44 UTC] PHP Fatal error:  Uncaught Error: Class "registro" not found in C:\laragon\www\Proyecto-INRLP\libs\app.php:28
+Stack trace:
+#0 C:\laragon\www\Proyecto-INRLP\index.php(23): App->__construct()
+#1 {main}
+  thrown in C:\laragon\www\Proyecto-INRLP\libs\app.php on line 28
+[08-May-2024 21:20:25 UTC] Inicio de aplicación web
+[08-May-2024 21:20:25 UTC] Errores::construct -> Inicio de errores
+[08-May-2024 21:21:13 UTC] Inicio de aplicación web
+[08-May-2024 21:21:13 UTC] SessionController::validateSession()
+[08-May-2024 21:21:13 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/Registro, url => Registro
+[08-May-2024 21:21:13 UTC] sessionController::isPublic(): currentURL => Registro
+[08-May-2024 21:21:13 UTC] SessionController::validateSession() redirect al login
+[08-May-2024 21:21:13 UTC] Inicio de aplicación web
+[08-May-2024 21:21:13 UTC] APP::construct-> no hay controlador especificado
+[08-May-2024 21:21:13 UTC] SessionController::validateSession()
+[08-May-2024 21:21:13 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/, url => 
+[08-May-2024 21:21:13 UTC] sessionController::isPublic(): currentURL => 
+[08-May-2024 21:21:13 UTC] SessionController::validateSession() public page
+[08-May-2024 21:21:13 UTC] Login::construct-> Inicio de login
+[08-May-2024 21:21:23 UTC] Inicio de aplicación web
+[08-May-2024 21:21:23 UTC] SessionController::validateSession()
+[08-May-2024 21:21:23 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/registro, url => registro
+[08-May-2024 21:21:23 UTC] sessionController::isPublic(): currentURL => registro
+[08-May-2024 21:21:23 UTC] SessionController::validateSession() redirect al login
+[08-May-2024 21:21:23 UTC] Inicio de aplicación web
+[08-May-2024 21:21:23 UTC] APP::construct-> no hay controlador especificado
+[08-May-2024 21:21:23 UTC] SessionController::validateSession()
+[08-May-2024 21:21:23 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/, url => 
+[08-May-2024 21:21:23 UTC] sessionController::isPublic(): currentURL => 
+[08-May-2024 21:21:23 UTC] SessionController::validateSession() public page
+[08-May-2024 21:21:23 UTC] Login::construct-> Inicio de login
+[08-May-2024 21:21:35 UTC] Inicio de aplicación web
+[08-May-2024 21:21:35 UTC] Errores::construct -> Inicio de errores
+[08-May-2024 21:21:44 UTC] Inicio de aplicación web
+[08-May-2024 21:21:44 UTC] SessionController::validateSession()
+[08-May-2024 21:21:44 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/registro, url => registro
+[08-May-2024 21:21:44 UTC] sessionController::isPublic(): currentURL => registro
+[08-May-2024 21:21:44 UTC] SessionController::validateSession() redirect al login
+[08-May-2024 21:21:44 UTC] Inicio de aplicación web
+[08-May-2024 21:21:44 UTC] APP::construct-> no hay controlador especificado
+[08-May-2024 21:21:44 UTC] SessionController::validateSession()
+[08-May-2024 21:21:44 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/, url => 
+[08-May-2024 21:21:44 UTC] sessionController::isPublic(): currentURL => 
+[08-May-2024 21:21:44 UTC] SessionController::validateSession() public page
+[08-May-2024 21:21:44 UTC] Login::construct-> Inicio de login
+[08-May-2024 21:23:31 UTC] Inicio de aplicación web
+[08-May-2024 21:23:31 UTC] Errores::construct -> Inicio de errores
+[08-May-2024 21:23:36 UTC] Inicio de aplicación web
+[08-May-2024 21:23:36 UTC] SessionController::validateSession()
+[08-May-2024 21:23:36 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/Registro, url => Registro
+[08-May-2024 21:23:36 UTC] sessionController::isPublic(): currentURL => Registro
+[08-May-2024 21:23:36 UTC] SessionController::validateSession() redirect al login
+[08-May-2024 21:23:36 UTC] Inicio de aplicación web
+[08-May-2024 21:23:36 UTC] APP::construct-> no hay controlador especificado
+[08-May-2024 21:23:36 UTC] SessionController::validateSession()
+[08-May-2024 21:23:36 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/, url => 
+[08-May-2024 21:23:36 UTC] sessionController::isPublic(): currentURL => 
+[08-May-2024 21:23:36 UTC] SessionController::validateSession() public page
+[08-May-2024 21:23:36 UTC] Login::construct-> Inicio de login
+[08-May-2024 21:23:56 UTC] Inicio de aplicación web
+[08-May-2024 21:23:56 UTC] Errores::construct -> Inicio de errores
+[08-May-2024 21:24:10 UTC] Inicio de aplicación web
+[08-May-2024 21:24:10 UTC] SessionController::validateSession()
+[08-May-2024 21:24:10 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/registro, url => registro
+[08-May-2024 21:24:10 UTC] sessionController::isPublic(): currentURL => registro
+[08-May-2024 21:24:10 UTC] SessionController::validateSession() public page
+[08-May-2024 21:51:20 UTC] Inicio de aplicación web
+[08-May-2024 21:51:20 UTC] SessionController::validateSession()
+[08-May-2024 21:51:20 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/registro, url => registro
+[08-May-2024 21:51:20 UTC] sessionController::isPublic(): currentURL => registro
+[08-May-2024 21:51:20 UTC] SessionController::validateSession() public page
+[08-May-2024 21:51:22 UTC] Inicio de aplicación web
+[08-May-2024 21:51:22 UTC] SessionController::validateSession()
+[08-May-2024 21:51:22 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/registro/nuevoUsuario, url => registro
+[08-May-2024 21:51:22 UTC] sessionController::isPublic(): currentURL => registro
+[08-May-2024 21:51:22 UTC] SessionController::validateSession() public page
+[08-May-2024 21:51:22 UTC] Errores::construct -> Inicio de errores
+[08-May-2024 21:51:33 UTC] Inicio de aplicación web
+[08-May-2024 21:51:33 UTC] SessionController::validateSession()
+[08-May-2024 21:51:33 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/registro, url => registro
+[08-May-2024 21:51:33 UTC] sessionController::isPublic(): currentURL => registro
+[08-May-2024 21:51:33 UTC] SessionController::validateSession() public page
+[08-May-2024 21:52:18 UTC] Inicio de aplicación web
+[08-May-2024 21:52:18 UTC] SessionController::validateSession()
+[08-May-2024 21:52:18 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/registro, url => registro
+[08-May-2024 21:52:18 UTC] sessionController::isPublic(): currentURL => registro
+[08-May-2024 21:52:18 UTC] SessionController::validateSession() public page
+[08-May-2024 21:52:19 UTC] Inicio de aplicación web
+[08-May-2024 21:52:19 UTC] SessionController::validateSession()
+[08-May-2024 21:52:19 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/registro/nuevoUsuario, url => registro
+[08-May-2024 21:52:19 UTC] sessionController::isPublic(): currentURL => registro
+[08-May-2024 21:52:19 UTC] SessionController::validateSession() public page
+[08-May-2024 21:52:19 UTC] Errores::construct -> Inicio de errores
+[08-May-2024 21:52:20 UTC] Inicio de aplicación web
+[08-May-2024 21:52:20 UTC] SessionController::validateSession()
+[08-May-2024 21:52:20 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/registro, url => registro
+[08-May-2024 21:52:20 UTC] sessionController::isPublic(): currentURL => registro
+[08-May-2024 21:52:20 UTC] SessionController::validateSession() public page
+[08-May-2024 21:52:57 UTC] Inicio de aplicación web
+[08-May-2024 21:52:57 UTC] SessionController::validateSession()
+[08-May-2024 21:52:57 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/registro, url => registro
+[08-May-2024 21:52:57 UTC] sessionController::isPublic(): currentURL => registro
+[08-May-2024 21:52:57 UTC] SessionController::validateSession() public page
+[08-May-2024 21:52:58 UTC] Inicio de aplicación web
+[08-May-2024 21:52:58 UTC] SessionController::validateSession()
+[08-May-2024 21:52:58 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/registro/nuevoUsuario, url => registro
+[08-May-2024 21:52:58 UTC] sessionController::isPublic(): currentURL => registro
+[08-May-2024 21:52:58 UTC] SessionController::validateSession() public page
+[08-May-2024 21:52:58 UTC] PHP Fatal error:  Uncaught Error: Class "UserModel" not found in C:\laragon\www\Proyecto-INRLP\controllers\registro.php:25
+Stack trace:
+#0 C:\laragon\www\Proyecto-INRLP\libs\app.php(45): Registro->nuevoUsuario()
+#1 C:\laragon\www\Proyecto-INRLP\index.php(23): App->__construct()
+#2 {main}
+  thrown in C:\laragon\www\Proyecto-INRLP\controllers\registro.php on line 25
+[08-May-2024 21:52:58 UTC] Inicio de aplicación web
+[08-May-2024 21:52:58 UTC] SessionController::validateSession()
+[08-May-2024 21:52:58 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/registro?error=EMPTY, url => registro?error=EMPTY
+[08-May-2024 21:52:58 UTC] sessionController::isPublic(): currentURL => registro?error=EMPTY
+[08-May-2024 21:52:58 UTC] SessionController::validateSession() public page
+[08-May-2024 21:54:49 UTC] Inicio de aplicación web
+[08-May-2024 21:54:49 UTC] SessionController::validateSession()
+[08-May-2024 21:54:49 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/registro/nuevoUsuario, url => registro
+[08-May-2024 21:54:49 UTC] sessionController::isPublic(): currentURL => registro
+[08-May-2024 21:54:49 UTC] SessionController::validateSession() public page
+[08-May-2024 21:54:49 UTC] Conexión a BD exitosa
+[08-May-2024 21:54:49 UTC] Conexión a BD exitosa
+[08-May-2024 21:54:49 UTC] Inicio de aplicación web
+[08-May-2024 21:54:49 UTC] APP::construct-> no hay controlador especificado
+[08-May-2024 21:54:49 UTC] SessionController::validateSession()
+[08-May-2024 21:54:49 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/?success=usrcrd0, url => ?success=usrcrd0
+[08-May-2024 21:54:49 UTC] sessionController::isPublic(): currentURL => ?success=usrcrd0
+[08-May-2024 21:54:49 UTC] SessionController::validateSession() public page
+[08-May-2024 21:54:49 UTC] Login::construct-> Inicio de login
+[08-May-2024 22:17:44 UTC] Inicio de aplicación web
+[08-May-2024 22:17:44 UTC] APP::construct-> no hay controlador especificado
+[08-May-2024 22:17:44 UTC] SessionController::validateSession()
+[08-May-2024 22:17:44 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/, url => 
+[08-May-2024 22:17:44 UTC] sessionController::isPublic(): currentURL => 
+[08-May-2024 22:17:44 UTC] SessionController::validateSession() public page
+[08-May-2024 22:17:44 UTC] Login::construct-> Inicio de login
+[08-May-2024 22:21:21 UTC] Inicio de aplicación web
+[08-May-2024 22:21:21 UTC] PHP Fatal error:  Uncaught Error: Class "Model" not found in C:\laragon\www\Proyecto-INRLP\models\usermodel.php:2
+Stack trace:
+#0 C:\laragon\www\Proyecto-INRLP\clases\sessioncontroller.php(3): require_once()
+#1 C:\laragon\www\Proyecto-INRLP\index.php(17): require_once('C:\\laragon\\www\\...')
+#2 {main}
+  thrown in C:\laragon\www\Proyecto-INRLP\models\usermodel.php on line 2
+[08-May-2024 22:22:34 UTC] Inicio de aplicación web
+[08-May-2024 22:22:34 UTC] PHP Fatal error:  Uncaught Error: Class "Model" not found in C:\laragon\www\Proyecto-INRLP\models\usermodel.php:2
+Stack trace:
+#0 C:\laragon\www\Proyecto-INRLP\clases\sessioncontroller.php(3): require_once()
+#1 C:\laragon\www\Proyecto-INRLP\index.php(17): require_once('C:\\laragon\\www\\...')
+#2 {main}
+  thrown in C:\laragon\www\Proyecto-INRLP\models\usermodel.php on line 2
+[08-May-2024 22:23:18 UTC] Inicio de aplicación web
+[08-May-2024 22:23:18 UTC] APP::construct-> no hay controlador especificado
+[08-May-2024 22:23:18 UTC] SessionController::validateSession()
+[08-May-2024 22:23:18 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/, url => 
+[08-May-2024 22:23:18 UTC] sessionController::isPublic(): currentURL => 
+[08-May-2024 22:23:18 UTC] SessionController::validateSession() public page
+[08-May-2024 22:23:18 UTC] Login::construct-> Inicio de login
+[08-May-2024 22:24:25 UTC] Inicio de aplicación web
+[08-May-2024 22:24:25 UTC] APP::construct-> no hay controlador especificado
+[08-May-2024 22:24:25 UTC] SessionController::validateSession()
+[08-May-2024 22:24:25 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/, url => 
+[08-May-2024 22:24:25 UTC] sessionController::isPublic(): currentURL => 
+[08-May-2024 22:24:25 UTC] SessionController::validateSession() public page
+[08-May-2024 22:24:25 UTC] Login::construct-> Inicio de login
+[08-May-2024 22:24:31 UTC] Inicio de aplicación web
+[08-May-2024 22:24:31 UTC] SessionController::validateSession()
+[08-May-2024 22:24:31 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/login/authenticate, url => login
+[08-May-2024 22:24:31 UTC] sessionController::isPublic(): currentURL => login
+[08-May-2024 22:24:31 UTC] SessionController::validateSession() redirect al login
+[08-May-2024 22:24:31 UTC] Login::construct-> Inicio de login
+[08-May-2024 22:24:31 UTC] login: inicio
+[08-May-2024 22:24:31 UTC] Conexión a BD exitosa
+[08-May-2024 22:24:31 UTC] login: user id 5
+[08-May-2024 22:24:31 UTC] login: success
+[08-May-2024 22:24:31 UTC] Login::authenticate() passed
+[08-May-2024 22:24:31 UTC] sessionController::initialize(): user: marcos
+[08-May-2024 22:24:31 UTC] sessionController::authorizeAccess(): role: user
+[08-May-2024 22:24:31 UTC] Inicio de aplicación web
+[08-May-2024 22:24:31 UTC] SessionController::validateSession()
+[08-May-2024 22:24:31 UTC] PHP Fatal error:  Uncaught Error: Class "UserModel" not found in C:\laragon\www\Proyecto-INRLP\clases\sessioncontroller.php:106
+Stack trace:
+#0 C:\laragon\www\Proyecto-INRLP\clases\sessioncontroller.php(46): SessionController->getUserSessionData()
+#1 C:\laragon\www\Proyecto-INRLP\clases\sessioncontroller.php(32): SessionController->validateSession()
+#2 C:\laragon\www\Proyecto-INRLP\clases\sessioncontroller.php(18): SessionController->init()
+#3 C:\laragon\www\Proyecto-INRLP\controllers\dashboard.php(5): SessionController->__construct()
+#4 C:\laragon\www\Proyecto-INRLP\libs\app.php(28): Dashboard->__construct()
+#5 C:\laragon\www\Proyecto-INRLP\index.php(23): App->__construct()
+#6 {main}
+  thrown in C:\laragon\www\Proyecto-INRLP\clases\sessioncontroller.php on line 106
+[08-May-2024 22:25:13 UTC] Inicio de aplicación web
+[08-May-2024 22:25:13 UTC] PHP Fatal error:  Uncaught Error: Class "Model" not found in C:\laragon\www\Proyecto-INRLP\models\usermodel.php:2
+Stack trace:
+#0 C:\laragon\www\Proyecto-INRLP\clases\sessioncontroller.php(2): require_once()
+#1 C:\laragon\www\Proyecto-INRLP\index.php(17): require_once('C:\\laragon\\www\\...')
+#2 {main}
+  thrown in C:\laragon\www\Proyecto-INRLP\models\usermodel.php on line 2
+[08-May-2024 22:25:20 UTC] Inicio de aplicación web
+[08-May-2024 22:25:20 UTC] PHP Fatal error:  Uncaught Error: Class "Model" not found in C:\laragon\www\Proyecto-INRLP\models\usermodel.php:2
+Stack trace:
+#0 C:\laragon\www\Proyecto-INRLP\clases\sessioncontroller.php(2): require_once()
+#1 C:\laragon\www\Proyecto-INRLP\index.php(17): require_once('C:\\laragon\\www\\...')
+#2 {main}
+  thrown in C:\laragon\www\Proyecto-INRLP\models\usermodel.php on line 2
+[08-May-2024 22:25:24 UTC] Inicio de aplicación web
+[08-May-2024 22:25:24 UTC] PHP Fatal error:  Uncaught Error: Class "Model" not found in C:\laragon\www\Proyecto-INRLP\models\usermodel.php:2
+Stack trace:
+#0 C:\laragon\www\Proyecto-INRLP\clases\sessioncontroller.php(2): require_once()
+#1 C:\laragon\www\Proyecto-INRLP\index.php(17): require_once('C:\\laragon\\www\\...')
+#2 {main}
+  thrown in C:\laragon\www\Proyecto-INRLP\models\usermodel.php on line 2
+[08-May-2024 22:25:30 UTC] Inicio de aplicación web
+[08-May-2024 22:25:30 UTC] PHP Fatal error:  Uncaught Error: Class "Model" not found in C:\laragon\www\Proyecto-INRLP\models\usermodel.php:2
+Stack trace:
+#0 C:\laragon\www\Proyecto-INRLP\clases\sessioncontroller.php(2): require_once()
+#1 C:\laragon\www\Proyecto-INRLP\index.php(17): require_once('C:\\laragon\\www\\...')
+#2 {main}
+  thrown in C:\laragon\www\Proyecto-INRLP\models\usermodel.php on line 2
+[08-May-2024 22:25:37 UTC] Inicio de aplicación web
+[08-May-2024 22:25:37 UTC] PHP Fatal error:  Uncaught Error: Class "Model" not found in C:\laragon\www\Proyecto-INRLP\models\usermodel.php:2
+Stack trace:
+#0 C:\laragon\www\Proyecto-INRLP\clases\sessioncontroller.php(2): require_once()
+#1 C:\laragon\www\Proyecto-INRLP\index.php(17): require_once('C:\\laragon\\www\\...')
+#2 {main}
+  thrown in C:\laragon\www\Proyecto-INRLP\models\usermodel.php on line 2
+[08-May-2024 22:25:38 UTC] Inicio de aplicación web
+[08-May-2024 22:25:38 UTC] PHP Fatal error:  Uncaught Error: Class "Model" not found in C:\laragon\www\Proyecto-INRLP\models\usermodel.php:2
+Stack trace:
+#0 C:\laragon\www\Proyecto-INRLP\clases\sessioncontroller.php(2): require_once()
+#1 C:\laragon\www\Proyecto-INRLP\index.php(17): require_once('C:\\laragon\\www\\...')
+#2 {main}
+  thrown in C:\laragon\www\Proyecto-INRLP\models\usermodel.php on line 2
+[08-May-2024 22:25:39 UTC] Inicio de aplicación web
+[08-May-2024 22:25:39 UTC] PHP Fatal error:  Uncaught Error: Class "Model" not found in C:\laragon\www\Proyecto-INRLP\models\usermodel.php:2
+Stack trace:
+#0 C:\laragon\www\Proyecto-INRLP\clases\sessioncontroller.php(2): require_once()
+#1 C:\laragon\www\Proyecto-INRLP\index.php(17): require_once('C:\\laragon\\www\\...')
+#2 {main}
+  thrown in C:\laragon\www\Proyecto-INRLP\models\usermodel.php on line 2
+[08-May-2024 22:25:39 UTC] Inicio de aplicación web
+[08-May-2024 22:25:39 UTC] PHP Fatal error:  Uncaught Error: Class "Model" not found in C:\laragon\www\Proyecto-INRLP\models\usermodel.php:2
+Stack trace:
+#0 C:\laragon\www\Proyecto-INRLP\clases\sessioncontroller.php(2): require_once()
+#1 C:\laragon\www\Proyecto-INRLP\index.php(17): require_once('C:\\laragon\\www\\...')
+#2 {main}
+  thrown in C:\laragon\www\Proyecto-INRLP\models\usermodel.php on line 2
+[08-May-2024 22:25:51 UTC] Inicio de aplicación web
+[08-May-2024 22:25:51 UTC] PHP Fatal error:  Uncaught Error: Class "Model" not found in C:\laragon\www\Proyecto-INRLP\models\usermodel.php:2
+Stack trace:
+#0 C:\laragon\www\Proyecto-INRLP\clases\sessioncontroller.php(2): require_once()
+#1 C:\laragon\www\Proyecto-INRLP\index.php(17): require_once('C:\\laragon\\www\\...')
+#2 {main}
+  thrown in C:\laragon\www\Proyecto-INRLP\models\usermodel.php on line 2
+[08-May-2024 22:26:19 UTC] Inicio de aplicación web
+[08-May-2024 22:26:19 UTC] PHP Fatal error:  Uncaught Error: Class "Model" not found in C:\laragon\www\Proyecto-INRLP\models\usermodel.php:2
+Stack trace:
+#0 C:\laragon\www\Proyecto-INRLP\clases\sessioncontroller.php(2): require_once()
+#1 C:\laragon\www\Proyecto-INRLP\index.php(17): require_once('C:\\laragon\\www\\...')
+#2 {main}
+  thrown in C:\laragon\www\Proyecto-INRLP\models\usermodel.php on line 2
+[08-May-2024 22:26:32 UTC] Inicio de aplicación web
+[08-May-2024 22:26:32 UTC] APP::construct-> no hay controlador especificado
+[08-May-2024 22:26:32 UTC] SessionController::validateSession()
+[08-May-2024 22:26:32 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/, url => 
+[08-May-2024 22:26:32 UTC] sessionController::isPublic(): currentURL => 
+[08-May-2024 22:26:32 UTC] SessionController::validateSession() public page
+[08-May-2024 22:26:32 UTC] Login::construct-> Inicio de login
+[08-May-2024 22:27:53 UTC] Inicio de aplicación web
+[08-May-2024 22:27:53 UTC] SessionController::validateSession()
+[08-May-2024 22:27:53 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/login/authenticate, url => login
+[08-May-2024 22:27:53 UTC] sessionController::isPublic(): currentURL => login
+[08-May-2024 22:27:53 UTC] SessionController::validateSession() redirect al login
+[08-May-2024 22:27:53 UTC] Login::construct-> Inicio de login
+[08-May-2024 22:27:53 UTC] login: inicio
+[08-May-2024 22:27:53 UTC] Conexión a BD exitosa
+[08-May-2024 22:27:53 UTC] login: user id 5
+[08-May-2024 22:27:53 UTC] login: success
+[08-May-2024 22:27:53 UTC] Login::authenticate() passed
+[08-May-2024 22:27:53 UTC] sessionController::initialize(): user: marcos
+[08-May-2024 22:27:53 UTC] sessionController::authorizeAccess(): role: user
+[08-May-2024 22:27:53 UTC] Inicio de aplicación web
+[08-May-2024 22:27:53 UTC] SessionController::validateSession()
+[08-May-2024 22:27:53 UTC] PHP Fatal error:  Uncaught Error: Class "UserModel" not found in C:\laragon\www\Proyecto-INRLP\clases\sessioncontroller.php:106
+Stack trace:
+#0 C:\laragon\www\Proyecto-INRLP\clases\sessioncontroller.php(46): SessionController->getUserSessionData()
+#1 C:\laragon\www\Proyecto-INRLP\clases\sessioncontroller.php(32): SessionController->validateSession()
+#2 C:\laragon\www\Proyecto-INRLP\clases\sessioncontroller.php(18): SessionController->init()
+#3 C:\laragon\www\Proyecto-INRLP\controllers\dashboard.php(5): SessionController->__construct()
+#4 C:\laragon\www\Proyecto-INRLP\libs\app.php(28): Dashboard->__construct()
+#5 C:\laragon\www\Proyecto-INRLP\index.php(23): App->__construct()
+#6 {main}
+  thrown in C:\laragon\www\Proyecto-INRLP\clases\sessioncontroller.php on line 106
+[08-May-2024 22:30:07 UTC] Inicio de aplicación web
+[08-May-2024 22:30:07 UTC] PHP Fatal error:  Uncaught Error: Class "Model" not found in C:\laragon\www\Proyecto-INRLP\models\usermodel.php:2
+Stack trace:
+#0 C:\laragon\www\Proyecto-INRLP\clases\sessioncontroller.php(3): require_once()
+#1 C:\laragon\www\Proyecto-INRLP\index.php(17): require_once('C:\\laragon\\www\\...')
+#2 {main}
+  thrown in C:\laragon\www\Proyecto-INRLP\models\usermodel.php on line 2
+[08-May-2024 22:31:13 UTC] Inicio de aplicación web
+[08-May-2024 22:31:13 UTC] PHP Fatal error:  Uncaught Error: Class "Model" not found in C:\laragon\www\Proyecto-INRLP\models\usermodel.php:2
+Stack trace:
+#0 C:\laragon\www\Proyecto-INRLP\clases\sessioncontroller.php(3): require_once()
+#1 C:\laragon\www\Proyecto-INRLP\index.php(17): require_once('C:\\laragon\\www\\...')
+#2 {main}
+  thrown in C:\laragon\www\Proyecto-INRLP\models\usermodel.php on line 2
+[08-May-2024 22:31:48 UTC] Inicio de aplicación web
+[08-May-2024 22:31:48 UTC] PHP Fatal error:  Uncaught Error: Class "Model" not found in C:\laragon\www\Proyecto-INRLP\models\usermodel.php:2
+Stack trace:
+#0 C:\laragon\www\Proyecto-INRLP\clases\sessioncontroller.php(3): require_once()
+#1 C:\laragon\www\Proyecto-INRLP\index.php(17): require_once('C:\\laragon\\www\\...')
+#2 {main}
+  thrown in C:\laragon\www\Proyecto-INRLP\models\usermodel.php on line 2
+[08-May-2024 22:32:04 UTC] Inicio de aplicación web
+[08-May-2024 22:32:04 UTC] APP::construct-> no hay controlador especificado
+[08-May-2024 22:32:04 UTC] SessionController::validateSession()
+[08-May-2024 22:32:04 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/, url => 
+[08-May-2024 22:32:04 UTC] sessionController::isPublic(): currentURL => 
+[08-May-2024 22:32:04 UTC] SessionController::validateSession() public page
+[08-May-2024 22:32:04 UTC] Login::construct-> Inicio de login
+[08-May-2024 22:32:09 UTC] Inicio de aplicación web
+[08-May-2024 22:32:09 UTC] SessionController::validateSession()
+[08-May-2024 22:32:09 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/login/authenticate, url => login
+[08-May-2024 22:32:09 UTC] sessionController::isPublic(): currentURL => login
+[08-May-2024 22:32:09 UTC] SessionController::validateSession() redirect al login
+[08-May-2024 22:32:09 UTC] Login::construct-> Inicio de login
+[08-May-2024 22:32:09 UTC] login: inicio
+[08-May-2024 22:32:09 UTC] Conexión a BD exitosa
+[08-May-2024 22:32:09 UTC] login: user id 5
+[08-May-2024 22:32:09 UTC] login: success
+[08-May-2024 22:32:09 UTC] Login::authenticate() passed
+[08-May-2024 22:32:09 UTC] sessionController::initialize(): user: marcos
+[08-May-2024 22:32:09 UTC] sessionController::authorizeAccess(): role: user
+[08-May-2024 22:32:09 UTC] Inicio de aplicación web
+[08-May-2024 22:32:09 UTC] SessionController::validateSession()
+[08-May-2024 22:32:09 UTC] PHP Fatal error:  Uncaught Error: Class "UserModel" not found in C:\laragon\www\Proyecto-INRLP\clases\sessioncontroller.php:106
+Stack trace:
+#0 C:\laragon\www\Proyecto-INRLP\clases\sessioncontroller.php(46): SessionController->getUserSessionData()
+#1 C:\laragon\www\Proyecto-INRLP\clases\sessioncontroller.php(32): SessionController->validateSession()
+#2 C:\laragon\www\Proyecto-INRLP\clases\sessioncontroller.php(18): SessionController->init()
+#3 C:\laragon\www\Proyecto-INRLP\controllers\dashboard.php(5): SessionController->__construct()
+#4 C:\laragon\www\Proyecto-INRLP\libs\app.php(28): Dashboard->__construct()
+#5 C:\laragon\www\Proyecto-INRLP\index.php(23): App->__construct()
+#6 {main}
+  thrown in C:\laragon\www\Proyecto-INRLP\clases\sessioncontroller.php on line 106
+[08-May-2024 22:38:04 UTC] Inicio de aplicación web
+[08-May-2024 22:38:04 UTC] PHP Fatal error:  Uncaught Error: Class "Model" not found in C:\laragon\www\Proyecto-INRLP\models\usermodel.php:2
+Stack trace:
+#0 C:\laragon\www\Proyecto-INRLP\clases\sessioncontroller.php(3): require_once()
+#1 C:\laragon\www\Proyecto-INRLP\index.php(17): require_once('C:\\laragon\\www\\...')
+#2 {main}
+  thrown in C:\laragon\www\Proyecto-INRLP\models\usermodel.php on line 2
+[08-May-2024 22:38:53 UTC] Inicio de aplicación web
+[08-May-2024 22:38:53 UTC] PHP Fatal error:  Uncaught Error: Class "Model" not found in C:\laragon\www\Proyecto-INRLP\models\usermodel.php:2
+Stack trace:
+#0 C:\laragon\www\Proyecto-INRLP\clases\sessioncontroller.php(3): require_once()
+#1 C:\laragon\www\Proyecto-INRLP\index.php(17): require_once('C:\\laragon\\www\\...')
+#2 {main}
+  thrown in C:\laragon\www\Proyecto-INRLP\models\usermodel.php on line 2
+[08-May-2024 22:40:31 UTC] Inicio de aplicación web
+[08-May-2024 22:40:31 UTC] APP::construct-> no hay controlador especificado
+[08-May-2024 22:40:31 UTC] SessionController::validateSession()
+[08-May-2024 22:40:31 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/, url => 
+[08-May-2024 22:40:31 UTC] sessionController::isPublic(): currentURL => 
+[08-May-2024 22:40:31 UTC] SessionController::validateSession() public page
+[08-May-2024 22:40:31 UTC] Login::construct-> Inicio de login
+[08-May-2024 22:40:45 UTC] Inicio de aplicación web
+[08-May-2024 22:40:45 UTC] SessionController::validateSession()
+[08-May-2024 22:40:45 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/login/authenticate, url => login
+[08-May-2024 22:40:45 UTC] sessionController::isPublic(): currentURL => login
+[08-May-2024 22:40:45 UTC] SessionController::validateSession() redirect al login
+[08-May-2024 22:40:45 UTC] Login::construct-> Inicio de login
+[08-May-2024 22:40:45 UTC] login: inicio
+[08-May-2024 22:40:45 UTC] Conexión a BD exitosa
+[08-May-2024 22:40:45 UTC] login: user id 5
+[08-May-2024 22:40:45 UTC] login: success
+[08-May-2024 22:40:45 UTC] Login::authenticate() passed
+[08-May-2024 22:40:45 UTC] sessionController::initialize(): user: marcos
+[08-May-2024 22:40:45 UTC] sessionController::authorizeAccess(): role: user
+[08-May-2024 22:40:45 UTC] Inicio de aplicación web
+[08-May-2024 22:40:45 UTC] SessionController::validateSession()
+[08-May-2024 22:40:45 UTC] PHP Fatal error:  Uncaught Error: Class "UserModel" not found in C:\laragon\www\Proyecto-INRLP\clases\sessioncontroller.php:106
+Stack trace:
+#0 C:\laragon\www\Proyecto-INRLP\clases\sessioncontroller.php(46): SessionController->getUserSessionData()
+#1 C:\laragon\www\Proyecto-INRLP\clases\sessioncontroller.php(32): SessionController->validateSession()
+#2 C:\laragon\www\Proyecto-INRLP\clases\sessioncontroller.php(18): SessionController->init()
+#3 C:\laragon\www\Proyecto-INRLP\controllers\dashboard.php(5): SessionController->__construct()
+#4 C:\laragon\www\Proyecto-INRLP\libs\app.php(28): Dashboard->__construct()
+#5 C:\laragon\www\Proyecto-INRLP\index.php(23): App->__construct()
+#6 {main}
+  thrown in C:\laragon\www\Proyecto-INRLP\clases\sessioncontroller.php on line 106
+[08-May-2024 22:42:52 UTC] Inicio de aplicación web
+[08-May-2024 22:42:52 UTC] PHP Fatal error:  Uncaught Error: Class "Model" not found in C:\laragon\www\Proyecto-INRLP\models\usermodel.php:2
+Stack trace:
+#0 C:\laragon\www\Proyecto-INRLP\clases\sessioncontroller.php(2): require_once()
+#1 C:\laragon\www\Proyecto-INRLP\index.php(17): require_once('C:\\laragon\\www\\...')
+#2 {main}
+  thrown in C:\laragon\www\Proyecto-INRLP\models\usermodel.php on line 2
+[08-May-2024 22:42:52 UTC] Inicio de aplicación web
+[08-May-2024 22:42:52 UTC] PHP Fatal error:  Uncaught Error: Class "Model" not found in C:\laragon\www\Proyecto-INRLP\models\usermodel.php:2
+Stack trace:
+#0 C:\laragon\www\Proyecto-INRLP\clases\sessioncontroller.php(2): require_once()
+#1 C:\laragon\www\Proyecto-INRLP\index.php(17): require_once('C:\\laragon\\www\\...')
+#2 {main}
+  thrown in C:\laragon\www\Proyecto-INRLP\models\usermodel.php on line 2
+[08-May-2024 22:44:57 UTC] Inicio de aplicación web
+[08-May-2024 22:44:57 UTC] PHP Warning:  require_once(model.php): Failed to open stream: No such file or directory in C:\laragon\www\Proyecto-INRLP\models\usermodel.php on line 2
+[08-May-2024 22:44:57 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'model.php' (include_path='.;C:/laragon/etc/php/pear') in C:\laragon\www\Proyecto-INRLP\models\usermodel.php:2
+Stack trace:
+#0 C:\laragon\www\Proyecto-INRLP\clases\sessioncontroller.php(2): require_once()
+#1 C:\laragon\www\Proyecto-INRLP\index.php(17): require_once('C:\\laragon\\www\\...')
+#2 {main}
+  thrown in C:\laragon\www\Proyecto-INRLP\models\usermodel.php on line 2
+[08-May-2024 22:45:50 UTC] Inicio de aplicación web
+[08-May-2024 22:45:50 UTC] APP::construct-> no hay controlador especificado
+[08-May-2024 22:45:50 UTC] SessionController::validateSession()
+[08-May-2024 22:45:50 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/, url => 
+[08-May-2024 22:45:50 UTC] sessionController::isPublic(): currentURL => 
+[08-May-2024 22:45:50 UTC] SessionController::validateSession() public page
+[08-May-2024 22:45:50 UTC] Login::construct-> Inicio de login
+[08-May-2024 22:45:55 UTC] Inicio de aplicación web
+[08-May-2024 22:45:55 UTC] SessionController::validateSession()
+[08-May-2024 22:45:55 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/login/authenticate, url => login
+[08-May-2024 22:45:55 UTC] sessionController::isPublic(): currentURL => login
+[08-May-2024 22:45:55 UTC] SessionController::validateSession() redirect al login
+[08-May-2024 22:45:55 UTC] Login::construct-> Inicio de login
+[08-May-2024 22:45:55 UTC] login: inicio
+[08-May-2024 22:45:55 UTC] Conexión a BD exitosa
+[08-May-2024 22:45:55 UTC] login: user id 5
+[08-May-2024 22:45:55 UTC] login: success
+[08-May-2024 22:45:55 UTC] Login::authenticate() passed
+[08-May-2024 22:45:55 UTC] sessionController::initialize(): user: marcos
+[08-May-2024 22:45:55 UTC] sessionController::authorizeAccess(): role: user
+[08-May-2024 22:45:55 UTC] Inicio de aplicación web
+[08-May-2024 22:45:55 UTC] SessionController::validateSession()
+[08-May-2024 22:45:55 UTC] Conexión a BD exitosa
+[08-May-2024 22:45:55 UTC] sessionController::getUserSessionData(): marcos
+[08-May-2024 22:45:55 UTC] sessionController::validateSession(): username:marcos - role: user
+[08-May-2024 22:45:55 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/dashboard, url => dashboard
+[08-May-2024 22:45:55 UTC] sessionController::isPublic(): currentURL => dashboard
+[08-May-2024 22:45:55 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/dashboard, url => dashboard
+[08-May-2024 22:45:55 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[08-May-2024 22:45:55 UTC] Dashboard::construct-> Inicio de Dashboard
+[08-May-2024 22:45:55 UTC] Dashboard::render-> Cargo Dashboard
+[09-May-2024 02:30:16 UTC] Inicio de aplicación web
+[09-May-2024 02:30:16 UTC] APP::construct-> no hay controlador especificado
+[09-May-2024 02:30:16 UTC] SessionController::validateSession()
+[09-May-2024 02:30:16 UTC] Inicio de aplicación web
+[09-May-2024 02:30:16 UTC] PHP Warning:  Undefined array key 2 in C:\laragon\www\Proyecto-INRLP\clases\sessioncontroller.php on line 130
+[09-May-2024 02:30:16 UTC] sessionController::getCurrentPage(): actualLink =>/, url => 
+[09-May-2024 02:30:16 UTC] PHP Warning:  Undefined array key 2 in C:\laragon\www\Proyecto-INRLP\clases\sessioncontroller.php on line 131
+[09-May-2024 02:30:16 UTC] sessionController::isPublic(): currentURL => 
+[09-May-2024 02:30:16 UTC] PHP Deprecated:  preg_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated in C:\laragon\www\Proyecto-INRLP\clases\sessioncontroller.php on line 117
+[09-May-2024 02:30:16 UTC] SessionController::validateSession()
+[09-May-2024 02:30:16 UTC] SessionController::validateSession() public page
+[09-May-2024 02:30:16 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/dashboard, url => dashboard
+[09-May-2024 02:30:16 UTC] Login::construct-> Inicio de login
+[09-May-2024 02:30:16 UTC] sessionController::isPublic(): currentURL => dashboard
+[09-May-2024 02:30:16 UTC] SessionController::validateSession() redirect al login
+[09-May-2024 02:30:16 UTC] Dashboard::construct-> Inicio de Dashboard
+[09-May-2024 02:30:16 UTC] Dashboard::render-> Cargo Dashboard
+[09-May-2024 02:30:16 UTC] Inicio de aplicación web
+[09-May-2024 02:30:16 UTC] APP::construct-> no hay controlador especificado
+[09-May-2024 02:30:16 UTC] SessionController::validateSession()
+[09-May-2024 02:30:16 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/, url => 
+[09-May-2024 02:30:16 UTC] sessionController::isPublic(): currentURL => 
+[09-May-2024 02:30:16 UTC] SessionController::validateSession() public page
+[09-May-2024 02:30:16 UTC] Login::construct-> Inicio de login
+[09-May-2024 02:30:16 UTC] Inicio de aplicación web
+[09-May-2024 02:30:16 UTC] Errores::construct -> Inicio de errores
+[09-May-2024 02:31:04 UTC] Inicio de aplicación web
+[09-May-2024 02:31:04 UTC] APP::construct-> no hay controlador especificado
+[09-May-2024 02:31:04 UTC] SessionController::validateSession()
+[09-May-2024 02:31:04 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/, url => 
+[09-May-2024 02:31:04 UTC] sessionController::isPublic(): currentURL => 
+[09-May-2024 02:31:04 UTC] SessionController::validateSession() public page
+[09-May-2024 02:31:04 UTC] Login::construct-> Inicio de login
+[09-May-2024 02:32:22 UTC] Inicio de aplicación web
+[09-May-2024 02:32:22 UTC] SessionController::validateSession()
+[09-May-2024 02:32:22 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/login/authenticate, url => login
+[09-May-2024 02:32:22 UTC] sessionController::isPublic(): currentURL => login
+[09-May-2024 02:32:22 UTC] SessionController::validateSession() redirect al login
+[09-May-2024 02:32:22 UTC] Login::construct-> Inicio de login
+[09-May-2024 02:32:22 UTC] login: inicio
+[09-May-2024 02:32:22 UTC] Conexión a BD exitosa
+[09-May-2024 02:32:22 UTC] login: user id 5
+[09-May-2024 02:32:22 UTC] login: success
+[09-May-2024 02:32:22 UTC] Login::authenticate() passed
+[09-May-2024 02:32:22 UTC] sessionController::initialize(): user: marcos
+[09-May-2024 02:32:22 UTC] sessionController::authorizeAccess(): role: user
+[09-May-2024 02:32:22 UTC] Inicio de aplicación web
+[09-May-2024 02:32:22 UTC] SessionController::validateSession()
+[09-May-2024 02:32:22 UTC] Conexión a BD exitosa
+[09-May-2024 02:32:23 UTC] sessionController::getUserSessionData(): marcos
+[09-May-2024 02:32:23 UTC] sessionController::validateSession(): username:marcos - role: user
+[09-May-2024 02:32:23 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/dashboard, url => dashboard
+[09-May-2024 02:32:23 UTC] sessionController::isPublic(): currentURL => dashboard
+[09-May-2024 02:32:23 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/dashboard, url => dashboard
+[09-May-2024 02:32:23 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[09-May-2024 02:32:23 UTC] Dashboard::construct-> Inicio de Dashboard
+[09-May-2024 02:32:23 UTC] Dashboard::render-> Cargo Dashboard
+[09-May-2024 02:36:51 UTC] Inicio de aplicación web
+[09-May-2024 02:36:51 UTC] APP::construct-> no hay controlador especificado
+[09-May-2024 02:36:51 UTC] SessionController::validateSession()
+[09-May-2024 02:36:51 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/, url => 
+[09-May-2024 02:36:51 UTC] sessionController::isPublic(): currentURL => 
+[09-May-2024 02:36:51 UTC] SessionController::validateSession() public page
+[09-May-2024 02:36:51 UTC] Login::construct-> Inicio de login
+[09-May-2024 02:37:01 UTC] Inicio de aplicación web
+[09-May-2024 02:37:01 UTC] SessionController::validateSession()
+[09-May-2024 02:37:01 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/login/authenticate, url => login
+[09-May-2024 02:37:01 UTC] sessionController::isPublic(): currentURL => login
+[09-May-2024 02:37:01 UTC] SessionController::validateSession() redirect al login
+[09-May-2024 02:37:01 UTC] Login::construct-> Inicio de login
+[09-May-2024 02:37:01 UTC] login: inicio
+[09-May-2024 02:37:01 UTC] Conexión a BD exitosa
+[09-May-2024 02:37:01 UTC] Login::authenticate() username and/or password wrong
+[09-May-2024 02:37:01 UTC] Inicio de aplicación web
+[09-May-2024 02:37:01 UTC] APP::construct-> no hay controlador especificado
+[09-May-2024 02:37:01 UTC] SessionController::validateSession()
+[09-May-2024 02:37:01 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/?error=r0rlgn, url => ?error=r0rlgn
+[09-May-2024 02:37:01 UTC] sessionController::isPublic(): currentURL => ?error=r0rlgn
+[09-May-2024 02:37:01 UTC] SessionController::validateSession() public page
+[09-May-2024 02:37:01 UTC] Login::construct-> Inicio de login
+[09-May-2024 02:37:09 UTC] Inicio de aplicación web
+[09-May-2024 02:37:09 UTC] SessionController::validateSession()
+[09-May-2024 02:37:09 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/dashboard, url => dashboard
+[09-May-2024 02:37:09 UTC] sessionController::isPublic(): currentURL => dashboard
+[09-May-2024 02:37:09 UTC] SessionController::validateSession() redirect al login
+[09-May-2024 02:37:09 UTC] Dashboard::construct-> Inicio de Dashboard
+[09-May-2024 02:37:09 UTC] Dashboard::render-> Cargo Dashboard
+[09-May-2024 02:37:09 UTC] Inicio de aplicación web
+[09-May-2024 02:37:09 UTC] APP::construct-> no hay controlador especificado
+[09-May-2024 02:37:09 UTC] SessionController::validateSession()
+[09-May-2024 02:37:09 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/, url => 
+[09-May-2024 02:37:09 UTC] sessionController::isPublic(): currentURL => 
+[09-May-2024 02:37:09 UTC] SessionController::validateSession() public page
+[09-May-2024 02:37:09 UTC] Login::construct-> Inicio de login
+[09-May-2024 02:38:15 UTC] Inicio de aplicación web
+[09-May-2024 02:38:15 UTC] SessionController::validateSession()
+[09-May-2024 02:38:15 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/login/authenticate, url => login
+[09-May-2024 02:38:15 UTC] sessionController::isPublic(): currentURL => login
+[09-May-2024 02:38:15 UTC] SessionController::validateSession() redirect al login
+[09-May-2024 02:38:15 UTC] Login::construct-> Inicio de login
+[09-May-2024 02:38:15 UTC] Login::authenticate() empty
+[09-May-2024 02:38:15 UTC] Inicio de aplicación web
+[09-May-2024 02:38:15 UTC] APP::construct-> no hay controlador especificado
+[09-May-2024 02:38:15 UTC] SessionController::validateSession()
+[09-May-2024 02:38:15 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/?error=lgerr0rusremty, url => ?error=lgerr0rusremty
+[09-May-2024 02:38:15 UTC] sessionController::isPublic(): currentURL => ?error=lgerr0rusremty
+[09-May-2024 02:38:15 UTC] SessionController::validateSession() public page
+[09-May-2024 02:38:15 UTC] Login::construct-> Inicio de login
+[09-May-2024 04:31:26 UTC] Inicio de aplicación web
+[09-May-2024 04:31:26 UTC] APP::construct-> no hay controlador especificado
+[09-May-2024 04:31:26 UTC] SessionController::validateSession()
+[09-May-2024 04:31:26 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/?error=lgerr0rusremty, url => ?error=lgerr0rusremty
+[09-May-2024 04:31:26 UTC] sessionController::isPublic(): currentURL => ?error=lgerr0rusremty
+[09-May-2024 04:31:26 UTC] SessionController::validateSession() public page
+[09-May-2024 04:31:26 UTC] Login::construct-> Inicio de login
+[09-May-2024 04:31:38 UTC] Inicio de aplicación web
+[09-May-2024 04:31:38 UTC] SessionController::validateSession()
+[09-May-2024 04:31:38 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/user, url => user
+[09-May-2024 04:31:38 UTC] sessionController::isPublic(): currentURL => user
+[09-May-2024 04:31:38 UTC] SessionController::validateSession() redirect al login
+[09-May-2024 04:31:38 UTC] PHP Warning:  Undefined array key "user" in C:\laragon\www\Proyecto-INRLP\clases\session.php on line 18
+[09-May-2024 04:31:38 UTC] Conexión a BD exitosa
+[09-May-2024 04:31:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\laragon\www\Proyecto-INRLP\models\usermodel.php on line 76
+[09-May-2024 04:31:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\laragon\www\Proyecto-INRLP\models\usermodel.php on line 77
+[09-May-2024 04:31:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\laragon\www\Proyecto-INRLP\models\usermodel.php on line 78
+[09-May-2024 04:31:38 UTC] PHP Deprecated:  password_hash(): Passing null to parameter #1 ($password) of type string is deprecated in C:\laragon\www\Proyecto-INRLP\models\usermodel.php on line 159
+[09-May-2024 04:31:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\laragon\www\Proyecto-INRLP\models\usermodel.php on line 79
+[09-May-2024 04:31:38 UTC] sessionController::getUserSessionData(): 
+[09-May-2024 04:31:38 UTC] user 
+[09-May-2024 04:31:38 UTC] Inicio de aplicación web
+[09-May-2024 04:31:38 UTC] APP::construct-> no hay controlador especificado
+[09-May-2024 04:31:38 UTC] SessionController::validateSession()
+[09-May-2024 04:31:38 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/, url => 
+[09-May-2024 04:31:38 UTC] sessionController::isPublic(): currentURL => 
+[09-May-2024 04:31:38 UTC] SessionController::validateSession() public page
+[09-May-2024 04:31:38 UTC] Login::construct-> Inicio de login
+[09-May-2024 04:32:08 UTC] Inicio de aplicación web
+[09-May-2024 04:32:08 UTC] SessionController::validateSession()
+[09-May-2024 04:32:08 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/login/authenticate, url => login
+[09-May-2024 04:32:08 UTC] sessionController::isPublic(): currentURL => login
+[09-May-2024 04:32:08 UTC] SessionController::validateSession() redirect al login
+[09-May-2024 04:32:08 UTC] Login::construct-> Inicio de login
+[09-May-2024 04:32:08 UTC] login: inicio
+[09-May-2024 04:32:08 UTC] Conexión a BD exitosa
+[09-May-2024 04:32:08 UTC] login: user id 5
+[09-May-2024 04:32:08 UTC] login: success
+[09-May-2024 04:32:08 UTC] Login::authenticate() passed
+[09-May-2024 04:32:08 UTC] sessionController::initialize(): user: marcos
+[09-May-2024 04:32:08 UTC] sessionController::authorizeAccess(): role: user
+[09-May-2024 04:32:08 UTC] Inicio de aplicación web
+[09-May-2024 04:32:08 UTC] SessionController::validateSession()
+[09-May-2024 04:32:08 UTC] Conexión a BD exitosa
+[09-May-2024 04:32:08 UTC] sessionController::getUserSessionData(): marcos
+[09-May-2024 04:32:08 UTC] sessionController::validateSession(): username:marcos - role: user
+[09-May-2024 04:32:08 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/dashboard, url => dashboard
+[09-May-2024 04:32:08 UTC] sessionController::isPublic(): currentURL => dashboard
+[09-May-2024 04:32:08 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/dashboard, url => dashboard
+[09-May-2024 04:32:08 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[09-May-2024 04:32:08 UTC] Conexión a BD exitosa
+[09-May-2024 04:32:08 UTC] sessionController::getUserSessionData(): marcos
+[09-May-2024 04:32:08 UTC] Dashboard::construct-> Inicio de Dashboard
+[09-May-2024 04:32:08 UTC] Dashboard::render-> Cargo Dashboard
+[09-May-2024 04:32:08 UTC] PHP Fatal error:  Uncaught Error: Class "ExpensesModel" not found in C:\laragon\www\Proyecto-INRLP\controllers\dashboard.php:14
+Stack trace:
+#0 C:\laragon\www\Proyecto-INRLP\libs\app.php(53): Dashboard->render()
+#1 C:\laragon\www\Proyecto-INRLP\index.php(23): App->__construct()
+#2 {main}
+  thrown in C:\laragon\www\Proyecto-INRLP\controllers\dashboard.php on line 14
+[09-May-2024 04:33:17 UTC] Inicio de aplicación web
+[09-May-2024 04:33:17 UTC] SessionController::validateSession()
+[09-May-2024 04:33:17 UTC] Conexión a BD exitosa
+[09-May-2024 04:33:17 UTC] sessionController::getUserSessionData(): marcos
+[09-May-2024 04:33:17 UTC] sessionController::validateSession(): username:marcos - role: user
+[09-May-2024 04:33:17 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/dashboard, url => dashboard
+[09-May-2024 04:33:17 UTC] sessionController::isPublic(): currentURL => dashboard
+[09-May-2024 04:33:17 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/dashboard, url => dashboard
+[09-May-2024 04:33:17 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[09-May-2024 04:33:17 UTC] Conexión a BD exitosa
+[09-May-2024 04:33:17 UTC] sessionController::getUserSessionData(): marcos
+[09-May-2024 04:33:17 UTC] Dashboard::construct-> Inicio de Dashboard
+[09-May-2024 04:33:17 UTC] Dashboard::render-> Cargo Dashboard
+[09-May-2024 04:33:17 UTC] Conexión a BD exitosa
+[09-May-2024 04:33:17 UTC] ExpensesModel::getByUserIdAndLimit(): count: 5
+[09-May-2024 04:33:17 UTC] Conexión a BD exitosa
+[09-May-2024 04:33:17 UTC] Conexión a BD exitosa
+[09-May-2024 04:33:17 UTC] PHP Fatal error:  Uncaught Error: Class "CategoriesModel" not found in C:\laragon\www\Proyecto-INRLP\controllers\dashboard.php:39
+Stack trace:
+#0 C:\laragon\www\Proyecto-INRLP\controllers\dashboard.php(20): Dashboard->getCategorias()
+#1 C:\laragon\www\Proyecto-INRLP\libs\app.php(53): Dashboard->render()
+#2 C:\laragon\www\Proyecto-INRLP\index.php(23): App->__construct()
+#3 {main}
+  thrown in C:\laragon\www\Proyecto-INRLP\controllers\dashboard.php on line 39
+[09-May-2024 04:33:45 UTC] Inicio de aplicación web
+[09-May-2024 04:33:45 UTC] SessionController::validateSession()
+[09-May-2024 04:33:45 UTC] Conexión a BD exitosa
+[09-May-2024 04:33:45 UTC] sessionController::getUserSessionData(): marcos
+[09-May-2024 04:33:45 UTC] sessionController::validateSession(): username:marcos - role: user
+[09-May-2024 04:33:45 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/dashboard, url => dashboard
+[09-May-2024 04:33:45 UTC] sessionController::isPublic(): currentURL => dashboard
+[09-May-2024 04:33:45 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/dashboard, url => dashboard
+[09-May-2024 04:33:45 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[09-May-2024 04:33:45 UTC] Conexión a BD exitosa
+[09-May-2024 04:33:45 UTC] sessionController::getUserSessionData(): marcos
+[09-May-2024 04:33:45 UTC] Dashboard::construct-> Inicio de Dashboard
+[09-May-2024 04:33:45 UTC] Dashboard::render-> Cargo Dashboard
+[09-May-2024 04:33:45 UTC] Conexión a BD exitosa
+[09-May-2024 04:33:45 UTC] ExpensesModel::getByUserIdAndLimit(): count: 5
+[09-May-2024 04:33:45 UTC] Conexión a BD exitosa
+[09-May-2024 04:33:45 UTC] Conexión a BD exitosa
+[09-May-2024 04:33:45 UTC] Conexión a BD exitosa
+[09-May-2024 04:33:45 UTC] ExpensesModel::getTotalByCategoryThisMonth
+[09-May-2024 04:33:45 UTC] Conexión a BD exitosa
+[09-May-2024 04:33:45 UTC] Conexión a BD exitosa
+[09-May-2024 04:33:45 UTC] ExpensesModel::getTotalByCategoryThisMonth
+[09-May-2024 04:33:45 UTC] Conexión a BD exitosa
+[09-May-2024 04:33:45 UTC] Conexión a BD exitosa
+[09-May-2024 04:33:45 UTC] ExpensesModel::getTotalByCategoryThisMonth
+[09-May-2024 04:33:45 UTC] Conexión a BD exitosa
+[09-May-2024 04:33:45 UTC] Conexión a BD exitosa
+[09-May-2024 04:33:45 UTC] ExpensesModel::getTotalByCategoryThisMonth
+[09-May-2024 04:33:45 UTC] Conexión a BD exitosa
+[09-May-2024 04:33:45 UTC] Conexión a BD exitosa
+[09-May-2024 04:33:45 UTC] ExpensesModel::getTotalByCategoryThisMonth
+[09-May-2024 04:33:45 UTC] Conexión a BD exitosa
+[09-May-2024 04:33:45 UTC] Conexión a BD exitosa
+[09-May-2024 04:33:59 UTC] Inicio de aplicación web
+[09-May-2024 04:33:59 UTC] SessionController::validateSession()
+[09-May-2024 04:33:59 UTC] Conexión a BD exitosa
+[09-May-2024 04:33:59 UTC] sessionController::getUserSessionData(): marcos
+[09-May-2024 04:33:59 UTC] sessionController::validateSession(): username:marcos - role: user
+[09-May-2024 04:33:59 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/user, url => user
+[09-May-2024 04:33:59 UTC] sessionController::isPublic(): currentURL => user
+[09-May-2024 04:33:59 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/user, url => user
+[09-May-2024 04:33:59 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[09-May-2024 04:33:59 UTC] Conexión a BD exitosa
+[09-May-2024 04:33:59 UTC] sessionController::getUserSessionData(): marcos
+[09-May-2024 04:33:59 UTC] PHP Warning:  Array to string conversion in C:\laragon\www\Proyecto-INRLP\controllers\user.php on line 11
+[09-May-2024 04:33:59 UTC] user Array
+[09-May-2024 04:33:59 UTC] PHP Warning:  Array to string conversion in C:\laragon\www\Proyecto-INRLP\views\user\index.php on line 14
+[09-May-2024 04:33:59 UTC] PHP Warning:  Array to string conversion in C:\laragon\www\Proyecto-INRLP\views\user\index.php on line 18
+[09-May-2024 04:33:59 UTC] PHP Warning:  Array to string conversion in C:\laragon\www\Proyecto-INRLP\views\user\index.php on line 23
+[09-May-2024 04:34:32 UTC] Inicio de aplicación web
+[09-May-2024 04:34:32 UTC] SessionController::validateSession()
+[09-May-2024 04:34:32 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/dashboard, url => dashboard
+[09-May-2024 04:34:32 UTC] sessionController::isPublic(): currentURL => dashboard
+[09-May-2024 04:34:32 UTC] SessionController::validateSession() redirect al login
+[09-May-2024 04:34:32 UTC] PHP Warning:  Undefined array key "user" in C:\laragon\www\Proyecto-INRLP\clases\session.php on line 18
+[09-May-2024 04:34:32 UTC] Conexión a BD exitosa
+[09-May-2024 04:34:32 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\laragon\www\Proyecto-INRLP\models\usermodel.php on line 76
+[09-May-2024 04:34:32 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\laragon\www\Proyecto-INRLP\models\usermodel.php on line 77
+[09-May-2024 04:34:32 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\laragon\www\Proyecto-INRLP\models\usermodel.php on line 78
+[09-May-2024 04:34:32 UTC] PHP Deprecated:  password_hash(): Passing null to parameter #1 ($password) of type string is deprecated in C:\laragon\www\Proyecto-INRLP\models\usermodel.php on line 159
+[09-May-2024 04:34:32 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\laragon\www\Proyecto-INRLP\models\usermodel.php on line 79
+[09-May-2024 04:34:32 UTC] sessionController::getUserSessionData(): 
+[09-May-2024 04:34:32 UTC] Dashboard::construct-> Inicio de Dashboard
+[09-May-2024 04:34:32 UTC] Dashboard::render-> Cargo Dashboard
+[09-May-2024 04:34:32 UTC] Conexión a BD exitosa
+[09-May-2024 04:34:32 UTC] ExpensesModel::getByUserIdAndLimit(): count: 0
+[09-May-2024 04:34:32 UTC] Conexión a BD exitosa
+[09-May-2024 04:34:32 UTC] Conexión a BD exitosa
+[09-May-2024 04:34:32 UTC] Conexión a BD exitosa
+[09-May-2024 04:34:32 UTC] ExpensesModel::getTotalByCategoryThisMonth
+[09-May-2024 04:34:32 UTC] Conexión a BD exitosa
+[09-May-2024 04:34:32 UTC] Conexión a BD exitosa
+[09-May-2024 04:34:32 UTC] ExpensesModel::getTotalByCategoryThisMonth
+[09-May-2024 04:34:32 UTC] Conexión a BD exitosa
+[09-May-2024 04:34:32 UTC] Conexión a BD exitosa
+[09-May-2024 04:34:32 UTC] ExpensesModel::getTotalByCategoryThisMonth
+[09-May-2024 04:34:32 UTC] Conexión a BD exitosa
+[09-May-2024 04:34:32 UTC] Conexión a BD exitosa
+[09-May-2024 04:34:32 UTC] ExpensesModel::getTotalByCategoryThisMonth
+[09-May-2024 04:34:32 UTC] Conexión a BD exitosa
+[09-May-2024 04:34:32 UTC] Conexión a BD exitosa
+[09-May-2024 04:34:32 UTC] ExpensesModel::getTotalByCategoryThisMonth
+[09-May-2024 04:34:32 UTC] Conexión a BD exitosa
+[09-May-2024 04:34:32 UTC] Conexión a BD exitosa
+[09-May-2024 04:34:32 UTC] Inicio de aplicación web
+[09-May-2024 04:34:32 UTC] APP::construct-> no hay controlador especificado
+[09-May-2024 04:34:32 UTC] SessionController::validateSession()
+[09-May-2024 04:34:32 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/, url => 
+[09-May-2024 04:34:32 UTC] sessionController::isPublic(): currentURL => 
+[09-May-2024 04:34:32 UTC] SessionController::validateSession() public page
+[09-May-2024 04:34:32 UTC] Login::construct-> Inicio de login
+[09-May-2024 04:37:06 UTC] Inicio de aplicación web
+[09-May-2024 04:37:06 UTC] SessionController::validateSession()
+[09-May-2024 04:37:06 UTC] Conexión a BD exitosa
+[09-May-2024 04:37:06 UTC] sessionController::getUserSessionData(): marcos
+[09-May-2024 04:37:06 UTC] sessionController::validateSession(): username:marcos - role: user
+[09-May-2024 04:37:06 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/user, url => user
+[09-May-2024 04:37:06 UTC] sessionController::isPublic(): currentURL => user
+[09-May-2024 04:37:06 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/user, url => user
+[09-May-2024 04:37:06 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[09-May-2024 04:37:06 UTC] Conexión a BD exitosa
+[09-May-2024 04:37:06 UTC] sessionController::getUserSessionData(): marcos
+[09-May-2024 04:37:06 UTC] PHP Warning:  Array to string conversion in C:\laragon\www\Proyecto-INRLP\controllers\user.php on line 11
+[09-May-2024 04:37:06 UTC] user Array
+[09-May-2024 04:37:06 UTC] PHP Warning:  Array to string conversion in C:\laragon\www\Proyecto-INRLP\views\user\index.php on line 14
+[09-May-2024 04:37:06 UTC] PHP Warning:  Array to string conversion in C:\laragon\www\Proyecto-INRLP\views\user\index.php on line 18
+[09-May-2024 04:37:06 UTC] PHP Warning:  Array to string conversion in C:\laragon\www\Proyecto-INRLP\views\user\index.php on line 23
+[09-May-2024 04:46:57 UTC] Inicio de aplicación web
+[09-May-2024 04:46:57 UTC] SessionController::validateSession()
+[09-May-2024 04:46:57 UTC] Conexión a BD exitosa
+[09-May-2024 04:46:57 UTC] sessionController::getUserSessionData(): marcos
+[09-May-2024 04:46:57 UTC] sessionController::validateSession(): username:marcos - role: user
+[09-May-2024 04:46:57 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/user, url => user
+[09-May-2024 04:46:57 UTC] sessionController::isPublic(): currentURL => user
+[09-May-2024 04:46:57 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/user, url => user
+[09-May-2024 04:46:57 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[09-May-2024 04:46:57 UTC] Conexión a BD exitosa
+[09-May-2024 04:46:57 UTC] sessionController::getUserSessionData(): marcos
+[09-May-2024 04:46:57 UTC] PHP Warning:  Array to string conversion in C:\laragon\www\Proyecto-INRLP\controllers\user.php on line 11
+[09-May-2024 04:46:57 UTC] user Array
+[09-May-2024 04:46:57 UTC] PHP Warning:  Array to string conversion in C:\laragon\www\Proyecto-INRLP\views\user\index.php on line 14
+[09-May-2024 04:46:57 UTC] PHP Warning:  Array to string conversion in C:\laragon\www\Proyecto-INRLP\views\user\index.php on line 23
+[09-May-2024 04:52:26 UTC] Inicio de aplicación web
+[09-May-2024 04:52:26 UTC] SessionController::validateSession()
+[09-May-2024 04:52:26 UTC] Conexión a BD exitosa
+[09-May-2024 04:52:26 UTC] sessionController::getUserSessionData(): marcos
+[09-May-2024 04:52:26 UTC] sessionController::validateSession(): username:marcos - role: user
+[09-May-2024 04:52:26 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/user, url => user
+[09-May-2024 04:52:26 UTC] sessionController::isPublic(): currentURL => user
+[09-May-2024 04:52:26 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/user, url => user
+[09-May-2024 04:52:26 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[09-May-2024 04:52:26 UTC] Conexión a BD exitosa
+[09-May-2024 04:52:26 UTC] sessionController::getUserSessionData(): marcos
+[09-May-2024 04:52:26 UTC] PHP Warning:  Array to string conversion in C:\laragon\www\Proyecto-INRLP\controllers\user.php on line 11
+[09-May-2024 04:52:26 UTC] user Array
+[09-May-2024 04:52:26 UTC] PHP Warning:  Array to string conversion in C:\laragon\www\Proyecto-INRLP\views\user\index.php on line 14
+[09-May-2024 04:52:26 UTC] PHP Warning:  Array to string conversion in C:\laragon\www\Proyecto-INRLP\views\user\index.php on line 23
+[09-May-2024 04:59:17 UTC] Inicio de aplicación web
+[09-May-2024 04:59:17 UTC] SessionController::validateSession()
+[09-May-2024 04:59:17 UTC] Conexión a BD exitosa
+[09-May-2024 04:59:18 UTC] sessionController::getUserSessionData(): marcos
+[09-May-2024 04:59:18 UTC] sessionController::validateSession(): username:marcos - role: user
+[09-May-2024 04:59:18 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/user, url => user
+[09-May-2024 04:59:18 UTC] sessionController::isPublic(): currentURL => user
+[09-May-2024 04:59:18 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/user, url => user
+[09-May-2024 04:59:18 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[09-May-2024 04:59:18 UTC] Conexión a BD exitosa
+[09-May-2024 04:59:18 UTC] sessionController::getUserSessionData(): marcos
+[09-May-2024 04:59:18 UTC] PHP Warning:  Array to string conversion in C:\laragon\www\Proyecto-INRLP\controllers\user.php on line 11
+[09-May-2024 04:59:18 UTC] user Array
+[09-May-2024 04:59:18 UTC] PHP Warning:  Array to string conversion in C:\laragon\www\Proyecto-INRLP\views\user\index.php on line 14
+[09-May-2024 04:59:18 UTC] PHP Warning:  Array to string conversion in C:\laragon\www\Proyecto-INRLP\views\user\index.php on line 18
+[09-May-2024 04:59:18 UTC] PHP Warning:  Array to string conversion in C:\laragon\www\Proyecto-INRLP\views\user\index.php on line 23
+[09-May-2024 05:00:01 UTC] Inicio de aplicación web
+[09-May-2024 05:00:02 UTC] SessionController::validateSession()
+[09-May-2024 05:00:02 UTC] Conexión a BD exitosa
+[09-May-2024 05:00:02 UTC] sessionController::getUserSessionData(): marcos
+[09-May-2024 05:00:02 UTC] sessionController::validateSession(): username:marcos - role: user
+[09-May-2024 05:00:02 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/user, url => user
+[09-May-2024 05:00:02 UTC] sessionController::isPublic(): currentURL => user
+[09-May-2024 05:00:02 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/user, url => user
+[09-May-2024 05:00:02 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[09-May-2024 05:00:02 UTC] Conexión a BD exitosa
+[09-May-2024 05:00:02 UTC] sessionController::getUserSessionData(): marcos
+[09-May-2024 05:00:02 UTC] user Marcos Rivas
+[09-May-2024 05:00:02 UTC] Inicio de aplicación web
+[09-May-2024 05:00:02 UTC] Errores::construct -> Inicio de errores
+[09-May-2024 05:02:40 UTC] Inicio de aplicación web
+[09-May-2024 05:02:40 UTC] SessionController::validateSession()
+[09-May-2024 05:02:40 UTC] Conexión a BD exitosa
+[09-May-2024 05:02:40 UTC] sessionController::getUserSessionData(): marcos
+[09-May-2024 05:02:40 UTC] sessionController::validateSession(): username:marcos - role: user
+[09-May-2024 05:02:40 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/user, url => user
+[09-May-2024 05:02:40 UTC] sessionController::isPublic(): currentURL => user
+[09-May-2024 05:02:40 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/user, url => user
+[09-May-2024 05:02:40 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[09-May-2024 05:02:40 UTC] Conexión a BD exitosa
+[09-May-2024 05:02:40 UTC] sessionController::getUserSessionData(): marcos
+[09-May-2024 05:02:40 UTC] user Marcos Rivas
+[09-May-2024 05:02:40 UTC] Inicio de aplicación web
+[09-May-2024 05:02:40 UTC] Errores::construct -> Inicio de errores
+[09-May-2024 05:03:54 UTC] Inicio de aplicación web
+[09-May-2024 05:03:54 UTC] SessionController::validateSession()
+[09-May-2024 05:03:54 UTC] Conexión a BD exitosa
+[09-May-2024 05:03:54 UTC] sessionController::getUserSessionData(): marcos
+[09-May-2024 05:03:54 UTC] sessionController::validateSession(): username:marcos - role: user
+[09-May-2024 05:03:54 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/user, url => user
+[09-May-2024 05:03:54 UTC] sessionController::isPublic(): currentURL => user
+[09-May-2024 05:03:54 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/user, url => user
+[09-May-2024 05:03:54 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[09-May-2024 05:03:54 UTC] Conexión a BD exitosa
+[09-May-2024 05:03:54 UTC] sessionController::getUserSessionData(): marcos
+[09-May-2024 05:03:54 UTC] user Marcos Rivas
+[09-May-2024 05:03:54 UTC] Inicio de aplicación web
+[09-May-2024 05:03:54 UTC] Errores::construct -> Inicio de errores
+[09-May-2024 05:04:14 UTC] Inicio de aplicación web
+[09-May-2024 05:04:14 UTC] SessionController::validateSession()
+[09-May-2024 05:04:14 UTC] Conexión a BD exitosa
+[09-May-2024 05:04:14 UTC] sessionController::getUserSessionData(): marcos
+[09-May-2024 05:04:14 UTC] sessionController::validateSession(): username:marcos - role: user
+[09-May-2024 05:04:14 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/user/updatePhoto, url => user
+[09-May-2024 05:04:14 UTC] sessionController::isPublic(): currentURL => user
+[09-May-2024 05:04:14 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/user/updatePhoto, url => user
+[09-May-2024 05:04:14 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[09-May-2024 05:04:14 UTC] Conexión a BD exitosa
+[09-May-2024 05:04:14 UTC] sessionController::getUserSessionData(): marcos
+[09-May-2024 05:04:14 UTC] user Marcos Rivas
+[09-May-2024 05:04:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method UserModel::updatePhoto() in C:\laragon\www\Proyecto-INRLP\controllers\user.php:132
+Stack trace:
+#0 C:\laragon\www\Proyecto-INRLP\libs\app.php(45): User->updatePhoto()
+#1 C:\laragon\www\Proyecto-INRLP\index.php(23): App->__construct()
+#2 {main}
+  thrown in C:\laragon\www\Proyecto-INRLP\controllers\user.php on line 132
+[09-May-2024 05:09:46 UTC] Inicio de aplicación web
+[09-May-2024 05:09:46 UTC] SessionController::validateSession()
+[09-May-2024 05:09:46 UTC] Conexión a BD exitosa
+[09-May-2024 05:09:46 UTC] sessionController::getUserSessionData(): marcos
+[09-May-2024 05:09:46 UTC] sessionController::validateSession(): username:marcos - role: user
+[09-May-2024 05:09:46 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/user, url => user
+[09-May-2024 05:09:46 UTC] sessionController::isPublic(): currentURL => user
+[09-May-2024 05:09:46 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/user, url => user
+[09-May-2024 05:09:46 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[09-May-2024 05:09:46 UTC] Conexión a BD exitosa
+[09-May-2024 05:09:46 UTC] sessionController::getUserSessionData(): marcos
+[09-May-2024 05:09:46 UTC] user Marcos Rivas
+[09-May-2024 05:09:53 UTC] Inicio de aplicación web
+[09-May-2024 05:09:53 UTC] SessionController::validateSession()
+[09-May-2024 05:09:53 UTC] Conexión a BD exitosa
+[09-May-2024 05:09:53 UTC] sessionController::getUserSessionData(): marcos
+[09-May-2024 05:09:53 UTC] sessionController::validateSession(): username:marcos - role: user
+[09-May-2024 05:09:53 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/user/updatePhoto, url => user
+[09-May-2024 05:09:53 UTC] sessionController::isPublic(): currentURL => user
+[09-May-2024 05:09:53 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/user/updatePhoto, url => user
+[09-May-2024 05:09:53 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[09-May-2024 05:09:53 UTC] Conexión a BD exitosa
+[09-May-2024 05:09:53 UTC] sessionController::getUserSessionData(): marcos
+[09-May-2024 05:09:53 UTC] user Marcos Rivas
+[09-May-2024 05:09:53 UTC] Conexión a BD exitosa
+[09-May-2024 05:09:53 UTC] Inicio de aplicación web
+[09-May-2024 05:09:53 UTC] SessionController::validateSession()
+[09-May-2024 05:09:53 UTC] Conexión a BD exitosa
+[09-May-2024 05:09:53 UTC] sessionController::getUserSessionData(): marcos
+[09-May-2024 05:09:53 UTC] sessionController::validateSession(): username:marcos - role: user
+[09-May-2024 05:09:53 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/user, url => user
+[09-May-2024 05:09:53 UTC] sessionController::isPublic(): currentURL => user
+[09-May-2024 05:09:53 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/user, url => user
+[09-May-2024 05:09:53 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[09-May-2024 05:09:53 UTC] Conexión a BD exitosa
+[09-May-2024 05:09:53 UTC] sessionController::getUserSessionData(): marcos
+[09-May-2024 05:09:53 UTC] user Marcos Rivas
+[09-May-2024 05:12:58 UTC] Inicio de aplicación web
+[09-May-2024 05:12:58 UTC] SessionController::validateSession()
+[09-May-2024 05:12:58 UTC] Conexión a BD exitosa
+[09-May-2024 05:12:58 UTC] sessionController::getUserSessionData(): marcos
+[09-May-2024 05:12:58 UTC] sessionController::validateSession(): username:marcos - role: user
+[09-May-2024 05:12:58 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/user/updateName, url => user
+[09-May-2024 05:12:58 UTC] sessionController::isPublic(): currentURL => user
+[09-May-2024 05:12:58 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/user/updateName, url => user
+[09-May-2024 05:12:58 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[09-May-2024 05:12:58 UTC] Conexión a BD exitosa
+[09-May-2024 05:12:58 UTC] sessionController::getUserSessionData(): marcos
+[09-May-2024 05:12:58 UTC] user Marcos Rivas
+[09-May-2024 05:12:58 UTC] PHP Warning:  foreach() argument must be of type array|object, string given in C:\laragon\www\Proyecto-INRLP\libs\controller.php on line 25
+[09-May-2024 05:12:58 UTC] Conexión a BD exitosa
+[09-May-2024 05:12:58 UTC] Inicio de aplicación web
+[09-May-2024 05:12:58 UTC] SessionController::validateSession()
+[09-May-2024 05:12:58 UTC] Conexión a BD exitosa
+[09-May-2024 05:12:58 UTC] sessionController::getUserSessionData(): marcos
+[09-May-2024 05:12:58 UTC] sessionController::validateSession(): username:marcos - role: user
+[09-May-2024 05:12:58 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/user, url => user
+[09-May-2024 05:12:58 UTC] sessionController::isPublic(): currentURL => user
+[09-May-2024 05:12:58 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/user, url => user
+[09-May-2024 05:12:58 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[09-May-2024 05:12:58 UTC] Conexión a BD exitosa
+[09-May-2024 05:12:58 UTC] sessionController::getUserSessionData(): marcos
+[09-May-2024 05:12:58 UTC] user Marcos R
+[09-May-2024 05:19:22 UTC] Inicio de aplicación web
+[09-May-2024 05:19:22 UTC] SessionController::validateSession()
+[09-May-2024 05:19:22 UTC] Conexión a BD exitosa
+[09-May-2024 05:19:22 UTC] sessionController::getUserSessionData(): marcos
+[09-May-2024 05:19:22 UTC] sessionController::validateSession(): username:marcos - role: user
+[09-May-2024 05:19:22 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/user, url => user
+[09-May-2024 05:19:22 UTC] sessionController::isPublic(): currentURL => user
+[09-May-2024 05:19:22 UTC] sessionController::getCurrentPage(): actualLink =>/Proyecto-INRLP/user, url => user
+[09-May-2024 05:19:22 UTC] SessionController::validateSession() => autorizado, lo deja pasar
+[09-May-2024 05:19:22 UTC] Conexión a BD exitosa
+[09-May-2024 05:19:22 UTC] sessionController::getUserSessionData(): marcos
+[09-May-2024 05:19:22 UTC] user Marcos R
